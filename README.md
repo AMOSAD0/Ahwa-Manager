@@ -5,6 +5,14 @@ It demonstrates the use of **Object-Oriented Programming (OOP)** principles such
 
 ---
 
+## 🎬 Demo GIF
+
+Here's a preview of the app in action:
+
+![Ahwa Manager Demo](images/demo.gif)
+
+---
+
 ## 📌 Features
 
 - Add new orders with customer name and selected drink (Tea or Turkish Coffee).
